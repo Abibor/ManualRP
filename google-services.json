@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753991634030",
+    "project_id": "manual-rp",
+    "storage_bucket": "manual-rp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753991634030:android:0b533877bb6e0d2fec2a7f",
+        "android_client_info": {
+          "package_name": "com.example.manualrp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753991634030-8u4bsqu67r4no75qodhr7koed6tec5m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzSK0j1eNw3putLbriAkEyaG4Vuu0CZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753991634030-8u4bsqu67r4no75qodhr7koed6tec5m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
